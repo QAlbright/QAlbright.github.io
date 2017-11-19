@@ -11,6 +11,12 @@ color:blue;
   text-align: center;
 }
 
+h3 {
+	font-size: 28px;
+  font-family: Palatino, 'Palatino Linotype', serif;
+  color: rgb(121,149,117);
+}
+
 .hero {
   padding: 250px 0;
 	margin: 30px;
